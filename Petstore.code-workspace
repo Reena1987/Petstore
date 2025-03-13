@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-vfs://github/Reena1987/Petstore"
+		},
+		{
+			"name": "Petstore",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
